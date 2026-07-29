@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160" role="img" aria-labelledby="title desc">
+  <title id="title">雨墨星辰</title>
+  <desc id="desc">不爱编程，但很爱让程序与 Agent 替我干活。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1327"/><stop offset="1" stop-color="#080d1c"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8fc5ff"/><stop offset=".55" stop-color="#7180ff"/><stop offset="1" stop-color="#9a78ff"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="158" rx="15" fill="url(#bg)" stroke="#2d3858"/>
+  <g fill="none" stroke="#7180ff" opacity=".32">
+    <ellipse cx="804" cy="80" rx="68" ry="24" transform="rotate(-12 804 80)"/>
+    <ellipse cx="804" cy="80" rx="43" ry="14" transform="rotate(-12 804 80)"/>
+  </g>
+  <circle cx="751" cy="65" r="3" fill="#f2c66d"/><circle cx="846" cy="91" r="2.5" fill="#6ed8ed"/>
+  <path d="M34 44c9-16 26-21 39-12-13 4-20 14-20 27 0 12 6 22 18 28-17 5-34-4-40-19-4-9-3-17 3-24Z" fill="none" stroke="#9eb7ff" stroke-width="3"/>
+  <path d="m70 34 4 9 10 1-8 6 2 10-8-5-9 5 3-10-8-6 10-1Z" fill="#f2c66d"/>
+  <text x="102" y="69" fill="url(#accent)" font-family="Inter,Segoe UI,Microsoft YaHei,sans-serif" font-size="38" font-weight="760">雨墨星辰</text>
+  <text x="34" y="111" fill="#f2f5fb" font-family="Inter,Segoe UI,Microsoft YaHei,sans-serif" font-size="17">不爱编程，但很爱让程序与 Agent 替我干活。</text>
+  <text x="34" y="137" fill="#929fba" font-family="Inter,Segoe UI,sans-serif" font-size="14" font-style="italic">I don’t love coding, but I love making software and Agents work for me.</text>
+</svg>

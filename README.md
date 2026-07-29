@@ -1,49 +1,33 @@
 <div align="center">
 
-# 雨墨星辰
-
-**不爱编程，但很爱让程序与 Agent 替我干活。**
-
-*I build small tools for problems I actually have.*
+<img src="./assets/profile-header.svg" alt="雨墨星辰 — 不爱编程，但很爱让程序与 Agent 替我干活" width="100%">
 
 <picture>
   <source srcset="./assets/orbital-base.webp" type="image/webp">
-  <img src="./assets/orbital-base-static.png" alt="像素角色从个人工作台出发，经过代码、服务器、网络与动漫媒体场景，前往星轨基地" width="900">
+  <img src="./assets/orbital-base-static.png" alt="像素角色从个人工作台出发，经过代码、服务器、网络与动漫媒体场景，前往星轨基地" width="100%">
 </picture>
+
+<img src="./assets/focus-strip.svg" alt="正在折腾：自动化工具、自托管服务与动漫媒体整理" width="100%">
+
+<p>
+  <a href="https://github.com/ymxc152/AutoAnime"><img src="./assets/project-autoanime.svg" alt="AutoAnime 项目卡片" width="49%"></a>
+  <a href="https://github.com/ymxc152/gdut-auto-login"><img src="./assets/project-gdut.svg" alt="gdut-auto-login 项目卡片" width="49%"></a>
+</p>
+
+<img src="./assets/profile-footer.svg" alt="个人网站、博客与技能" width="100%">
+
+<p>
+  <a href="https://www.ymxc152.top">个人网站</a>
+  ·
+  <a href="https://blog.ymxc152.top">我的博客</a>
+  ·
+  <a href="https://github.com/ymxc152/AutoAnime">AutoAnime</a>
+  ·
+  <a href="https://github.com/ymxc152/gdut-auto-login">gdut-auto-login</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=ymxc152&style=flat-square&color=7180ff&label=ORBITAL+VISITORS" alt="Profile visitors">
 
 </div>
 
-## 正在折腾
-
-| 自动化工具 | 自托管服务 | 动漫媒体整理 |
-| --- | --- | --- |
-| 把重复操作交给程序 | 让数据和服务掌握在自己手里 | 把混乱的文件整理成可维护的媒体库 |
-
-## 一些能用的东西
-
-### [AutoAnime](https://github.com/ymxc152/AutoAnime)
-
-从番剧文件整理脚本逐步演化为安全、可确认、可回滚的媒体整理管线，目前正在探索 Agent 辅助识别。
-
-### [gdut-auto-login](https://github.com/ymxc152/gdut-auto-login)
-
-适用于 Windows 10/11 的 GDUT 校园网连接工具，支持掉线恢复、后台运行、日志与自动更新。
-
-## 更多
-
-- [个人网站](https://www.ymxc152.top)
-- [我的博客](https://blog.ymxc152.top)
-
-<div align="center">
-  <img src="./assets/skills.svg" alt="Python、Linux、Docker、SQLite、Git 与 Shell" width="680">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ymxc152&style=flat-square&color=6f75ff&label=VISITORS" alt="Profile visitors">
-</div>
-
-<!-- 发布仓库并首次运行 snake.yml 后，再启用下面的贡献蛇：
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ymxc152/ymxc152/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ymxc152/ymxc152/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ymxc152/ymxc152/output/github-contribution-grid-snake.svg">
-</picture>
--->
+<!-- 首次手动运行 snake.yml 后，可在这里加入 output 分支的贡献蛇。 -->
