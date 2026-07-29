@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="74" viewBox="0 0 680 74" role="img" aria-labelledby="title desc">
+  <title id="title">常用工具</title>
+  <desc id="desc">Python、Linux、Docker、SQLite、Git 与 Shell</desc>
+  <rect width="680" height="74" rx="14" fill="#0b1020"/>
+  <rect x=".5" y=".5" width="679" height="73" rx="13.5" fill="none" stroke="#39466f"/>
+  <path d="M32 37H648" stroke="#273252" stroke-dasharray="2 8"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" fill="#dce4ff">
+    <g transform="translate(28 18)"><circle cx="18" cy="19" r="17" fill="#243160"/><text x="44" y="24">Python</text></g>
+    <g transform="translate(132 18)"><circle cx="18" cy="19" r="17" fill="#202c50"/><text x="44" y="24">Linux</text></g>
+    <g transform="translate(231 18)"><circle cx="18" cy="19" r="17" fill="#174669"/><text x="44" y="24">Docker</text></g>
+    <g transform="translate(340 18)"><circle cx="18" cy="19" r="17" fill="#3a3470"/><text x="44" y="24">SQLite</text></g>
+    <g transform="translate(450 18)"><circle cx="18" cy="19" r="17" fill="#54314b"/><text x="44" y="24">Git</text></g>
+    <g transform="translate(536 18)"><circle cx="18" cy="19" r="17" fill="#204a57"/><text x="44" y="24">Shell</text></g>
+  </g>
+  <g fill="#76d8eb">
+    <circle cx="46" cy="37" r="4"/><circle cx="150" cy="37" r="4"/><circle cx="249" cy="37" r="4"/>
+  </g>
+  <g fill="#f0c66d"><circle cx="358" cy="37" r="4"/><circle cx="468" cy="37" r="4"/><circle cx="554" cy="37" r="4"/></g>
+</svg>
