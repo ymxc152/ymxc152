@@ -15,28 +15,28 @@
     <text x="185" y="36" fill="#7a869e" font-size="11">按用途分组，方便继续扩展</text>
     <line x1="25" y1="56" x2="875" y2="56" stroke="#e0e7f3"/>
 
-    <g transform="translate(25 70)">
+    <g transform="translate(25 78)">
       <circle cx="9" cy="9" r="8" fill="#3975c6"/>
       <path d="M5 9h8M9 5v8" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
       <text x="24" y="8" fill="#253149" font-size="13" font-weight="680">自动化</text>
       <text x="24" y="27" fill="#66738d" font-size="11">Python · Shell</text>
     </g>
-    <line x1="222" y1="70" x2="222" y2="113" stroke="#e3e9f4"/>
-    <g transform="translate(250 70)">
+    <line x1="222" y1="68" x2="222" y2="118" stroke="#e3e9f4"/>
+    <g transform="translate(250 78)">
       <circle cx="9" cy="9" r="8" fill="#2b9fd8"/>
       <path d="M4 7h10v6H4zM6 5h6" fill="none" stroke="#fff" stroke-width="1.4" stroke-linejoin="round"/>
       <text x="24" y="8" fill="#253149" font-size="13" font-weight="680">运行环境</text>
       <text x="24" y="27" fill="#66738d" font-size="11">Linux · Docker</text>
     </g>
-    <line x1="447" y1="70" x2="447" y2="113" stroke="#e3e9f4"/>
-    <g transform="translate(475 70)">
+    <line x1="447" y1="68" x2="447" y2="118" stroke="#e3e9f4"/>
+    <g transform="translate(475 78)">
       <circle cx="9" cy="9" r="8" fill="#e5644b"/>
       <path d="M5 6h8v7H5zM7 4h4" fill="none" stroke="#fff" stroke-width="1.4" stroke-linejoin="round"/>
       <text x="24" y="8" fill="#253149" font-size="13" font-weight="680">数据与工作流</text>
       <text x="24" y="27" fill="#66738d" font-size="11">SQLite · Git</text>
     </g>
-    <line x1="672" y1="70" x2="672" y2="113" stroke="#e3e9f4"/>
-    <g transform="translate(700 70)">
+    <line x1="672" y1="68" x2="672" y2="118" stroke="#e3e9f4"/>
+    <g transform="translate(700 78)">
       <circle cx="9" cy="9" r="8" fill="#745bd8"/>
       <path d="M5 10c2-5 6-5 8 0M6 12h6" fill="none" stroke="#fff" stroke-width="1.4" stroke-linecap="round"/>
       <text x="24" y="8" fill="#253149" font-size="13" font-weight="680">Agent 探索</text>

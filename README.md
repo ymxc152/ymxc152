@@ -45,14 +45,14 @@
   <img src="./assets/toolbox.svg" alt="常用工具箱：自动化、运行环境、数据与工作流、Agent 探索" width="100%">
 </picture>
 
+<div>
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/contribution-heading-mobile.svg">
   <img src="./assets/contribution-heading.svg" alt="贡献轨迹" width="100%">
-</picture>
-
-<picture>
+</picture><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ymxc152/ymxc152/output/github-contribution-grid-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/ymxc152/ymxc152/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%">
 </picture>
+</div>
 
 </div>
