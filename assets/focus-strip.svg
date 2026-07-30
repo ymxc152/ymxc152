@@ -1,16 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" role="img" aria-labelledby="title">
-  <title id="title">正在折腾</title>
-  <rect x="1" y="1" width="898" height="168" rx="15" fill="#0a1122" stroke="#2d3858"/>
-  <path d="M31 41c15-18 35-18 50 0-15 18-35 18-50 0Z" fill="none" stroke="#7d8cff" stroke-width="2"/><circle cx="56" cy="41" r="6" fill="#6ed8ed"/>
-  <text x="93" y="49" fill="#f2f5fb" font-family="Inter,Segoe UI,Microsoft YaHei,sans-serif" font-size="24" font-weight="720">正在折腾</text>
-  <line x1="30" y1="69" x2="870" y2="69" stroke="#26314d"/>
-  <line x1="300" y1="88" x2="300" y2="145" stroke="#2d3858"/><line x1="600" y1="88" x2="600" y2="145" stroke="#2d3858"/>
-  <g font-family="Inter,Segoe UI,Microsoft YaHei,sans-serif">
-    <rect x="42" y="92" width="42" height="42" rx="10" fill="#121d38" stroke="#7180ff"/><path d="M52 113h22M63 102v22" stroke="#8fc5ff" stroke-width="2"/>
-    <text x="100" y="110" fill="#f2f5fb" font-size="17" font-weight="680">自动化工具</text><text x="100" y="135" fill="#929fba" font-size="13">让重复的事自动发生</text>
-    <rect x="342" y="92" width="42" height="42" rx="10" fill="#121d38" stroke="#7180ff"/><path d="M351 103h24v8h-24zm0 12h24v8h-24" fill="none" stroke="#8fc5ff" stroke-width="2"/>
-    <text x="400" y="110" fill="#f2f5fb" font-size="17" font-weight="680">自托管服务</text><text x="400" y="135" fill="#929fba" font-size="13">数据在自己手里才安心</text>
-    <rect x="642" y="92" width="42" height="42" rx="10" fill="#121d38" stroke="#7180ff"/><path d="m652 103 22 10-22 10Z" fill="none" stroke="#8fc5ff" stroke-width="2"/>
-    <text x="700" y="110" fill="#f2f5fb" font-size="17" font-weight="680">动漫媒体整理</text><text x="700" y="135" fill="#929fba" font-size="13">把喜欢的内容都归好类</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="132" viewBox="0 0 900 132" role="img" aria-labelledby="title">
+  <title id="title">正在折腾</title><rect x="1" y="1" width="898" height="130" rx="14" fill="#ffffff" stroke="#d9e2f2"/>
+  <path d="M28 34c13-15 31-15 44 0-13 15-31 15-44 0Z" fill="#f2f5ff" stroke="#6673e8" stroke-width="2"/><circle cx="50" cy="34" r="5" fill="#42aabd"/>
+  <text x="84" y="41" fill="#17213a" font-family="Inter,Segoe UI,Microsoft YaHei,sans-serif" font-size="21" font-weight="720">正在折腾</text><line x1="25" y1="57" x2="875" y2="57" stroke="#e0e7f3"/><line x1="300" y1="70" x2="300" y2="115" stroke="#e0e7f3"/><line x1="600" y1="70" x2="600" y2="115" stroke="#e0e7f3"/>
+  <g font-family="Inter,Segoe UI,Microsoft YaHei,sans-serif"><rect x="36" y="73" width="36" height="36" rx="9" fill="#f3f6ff" stroke="#8793eb"/><path d="M45 91h18M54 82v18" stroke="#6673e8" stroke-width="2"/><text x="87" y="88" fill="#17213a" font-size="15" font-weight="680">自动化工具</text><text x="87" y="107" fill="#66738d" font-size="12">让重复的事自动发生</text>
+  <rect x="336" y="73" width="36" height="36" rx="9" fill="#f3f6ff" stroke="#8793eb"/><path d="M344 82h20v7h-20zm0 11h20v7h-20" fill="none" stroke="#6673e8" stroke-width="2"/><text x="387" y="88" fill="#17213a" font-size="15" font-weight="680">自托管服务</text><text x="387" y="107" fill="#66738d" font-size="12">数据在自己手里才安心</text>
+  <rect x="636" y="73" width="36" height="36" rx="9" fill="#f3f6ff" stroke="#8793eb"/><path d="m645 82 18 9-18 9Z" fill="none" stroke="#6673e8" stroke-width="2"/><text x="687" y="88" fill="#17213a" font-size="15" font-weight="680">动漫媒体整理</text><text x="687" y="107" fill="#66738d" font-size="12">把喜欢的内容都归好类</text></g>
 </svg>

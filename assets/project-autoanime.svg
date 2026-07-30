@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="185" viewBox="0 0 440 185" role="img" aria-labelledby="title desc">
-  <title id="title">AutoAnime</title><desc id="desc">安全、可确认、可回滚的媒体整理管线</desc>
-  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101a33"/><stop offset="1" stop-color="#090f20"/></linearGradient></defs>
-  <rect x="1" y="1" width="438" height="183" rx="14" fill="url(#bg)" stroke="#354365"/>
-  <rect x="24" y="24" width="42" height="42" rx="10" fill="#182548" stroke="#7180ff"/><path d="M36 34h18v22H36m4-17h10m-10 6h10m-10 6h7" fill="none" stroke="#9db4ff" stroke-width="2"/>
-  <text x="82" y="48" fill="#75b8ff" font-family="Inter,Segoe UI,sans-serif" font-size="22" font-weight="720">AutoAnime</text>
-  <text x="24" y="94" fill="#dce3f3" font-family="Inter,Segoe UI,Microsoft YaHei,sans-serif" font-size="14">从番剧文件整理工具演化而来的媒体整理管线。</text>
-  <text x="24" y="119" fill="#929fba" font-family="Inter,Segoe UI,Microsoft YaHei,sans-serif" font-size="13">证据优先 · 人工确认 · 安全执行 · 支持回滚</text>
-  <circle cx="29" cy="153" r="5" fill="#4b9eff"/><text x="43" y="158" fill="#aab5ca" font-family="Inter,Segoe UI,sans-serif" font-size="12">Python</text>
-  <text x="416" y="158" text-anchor="end" fill="#6ed8ed" font-family="Inter,Segoe UI,sans-serif" font-size="12">OPEN PROJECT →</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150" role="img" aria-labelledby="title desc"><title id="title">AutoAnime</title><desc id="desc">安全、可确认、可回滚的媒体整理管线</desc><rect x="1" y="1" width="438" height="148" rx="13" fill="#ffffff" stroke="#d6dfef"/><rect x="20" y="18" width="36" height="36" rx="9" fill="#f2f5ff" stroke="#7886e8"/><path d="M30 27h16v18H30m4-13h8m-8 5h8m-8 5h6" fill="none" stroke="#6673e8" stroke-width="1.8"/><text x="70" y="42" fill="#4269c7" font-family="Inter,Segoe UI,sans-serif" font-size="20" font-weight="720">AutoAnime</text><text x="20" y="79" fill="#27324b" font-family="Inter,Segoe UI,Microsoft YaHei,sans-serif" font-size="13">从番剧文件整理工具演化而来的媒体整理管线。</text><text x="20" y="100" fill="#66738d" font-family="Inter,Segoe UI,Microsoft YaHei,sans-serif" font-size="12">证据优先 · 人工确认 · 安全执行 · 支持回滚</text><circle cx="25" cy="126" r="4.5" fill="#4b9eff"/><text x="37" y="130" fill="#66738d" font-family="Inter,Segoe UI,sans-serif" font-size="11">Python · Agent exploration</text><text x="418" y="130" text-anchor="end" fill="#3d9db0" font-family="Inter,Segoe UI,sans-serif" font-size="11">OPEN →</text></svg>
