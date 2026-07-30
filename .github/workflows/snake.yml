@@ -20,6 +20,40 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=#6673e8&color_dots=#eef2f7,#dcecff,#b9dcff,#8da8f2,#6673e8
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#8b97ff&color_dots=#161b22,#22304f,#354d85,#596fc5,#8b97ff
 
+      - name: Add matching panel frame
+        shell: bash
+        run: |
+          node <<'NODE'
+          const fs = require('fs')
+
+          const variants = [
+            {
+              file: 'dist/github-contribution-grid-snake.svg',
+              fill: '#ffffff',
+              stroke: '#d9e2f2',
+            },
+            {
+              file: 'dist/github-contribution-grid-snake-dark.svg',
+              fill: '#0d1117',
+              stroke: '#30363d',
+            },
+          ]
+
+          for (const { file, fill, stroke } of variants) {
+            let svg = fs.readFileSync(file, 'utf8')
+            svg = svg
+              .replace(
+                'viewBox="-16 -32 880 192" width="880" height="192"',
+                'viewBox="-16 -32 896 208" width="896" height="208"',
+              )
+              .replace(
+                '</desc>',
+                `</desc><rect x="-15" y="-31" width="894" height="206" rx="14" fill="${fill}" stroke="${stroke}"/>`,
+              )
+            fs.writeFileSync(file, svg)
+          }
+          NODE
+
       - name: Publish assets
         uses: crazy-max/ghaction-github-pages@v4
         with:

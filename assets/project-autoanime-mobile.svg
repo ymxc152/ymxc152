@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="158" viewBox="0 0 600 158" role="img" aria-labelledby="title desc">
+  <title id="title">AutoAnime</title><desc id="desc">安全、可确认、可回滚的媒体整理管线</desc>
+  <rect x="2" y="2" width="596" height="154" rx="18" fill="#fff" stroke="#d6dfef" stroke-width="2"/>
+  <g font-family="Inter,Segoe UI,Microsoft YaHei,sans-serif">
+    <rect x="28" y="22" width="52" height="52" rx="13" fill="#f2f5ff" stroke="#7886e8" stroke-width="2"/>
+    <path d="M42 34h23v27H42m6-19h12m-12 7h12m-12 7h9" fill="none" stroke="#6673e8" stroke-width="2.5"/>
+    <text x="103" y="56" fill="#4269c7" font-size="31" font-weight="720">AutoAnime</text>
+    <text x="28" y="100" fill="#27324b" font-size="21">安全、可确认、可回滚的媒体整理管线。</text>
+    <text x="28" y="130" fill="#66738d" font-size="18">Python · Agent exploration</text>
+    <text x="568" y="130" text-anchor="end" fill="#3d9db0" font-size="18">OPEN PROJECT →</text>
+  </g>
+</svg>

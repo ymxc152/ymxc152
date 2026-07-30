@@ -20,10 +20,10 @@
   <img src="./assets/projects-heading.svg" alt="一些能用的东西" width="100%">
 </picture>
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/projects-grid-mobile.svg">
-  <img src="./assets/projects-grid.svg" alt="AutoAnime 与 gdut-auto-login 项目概览" width="100%">
-</picture>
+<p>
+  <a href="https://github.com/ymxc152/AutoAnime"><picture><source media="(max-width: 600px)" srcset="./assets/project-autoanime-mobile.svg"><img src="./assets/project-autoanime.svg" alt="AutoAnime：安全、可确认、可回滚的媒体整理管线" width="440"></picture></a>
+  <a href="https://github.com/ymxc152/gdut-auto-login"><picture><source media="(max-width: 600px)" srcset="./assets/project-gdut-mobile.svg"><img src="./assets/project-gdut.svg" alt="gdut-auto-login：Windows 校园网连接与自动恢复工具" width="440"></picture></a>
+</p>
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/profile-footer-mobile.svg">
@@ -31,13 +31,8 @@
 </picture>
 
 <p>
-  <a href="https://www.ymxc152.top">个人网站</a>
-  ·
-  <a href="https://blog.ymxc152.top">我的博客</a>
-  ·
-  <a href="https://github.com/ymxc152/AutoAnime">AutoAnime</a>
-  ·
-  <a href="https://github.com/ymxc152/gdut-auto-login">gdut-auto-login</a>
+  <a href="https://www.ymxc152.top"><picture><source media="(max-width: 600px)" srcset="./assets/link-site-mobile.svg"><img src="./assets/link-site.svg" alt="打开个人网站 www.ymxc152.top" width="440"></picture></a>
+  <a href="https://blog.ymxc152.top"><picture><source media="(max-width: 600px)" srcset="./assets/link-blog-mobile.svg"><img src="./assets/link-blog.svg" alt="打开博客 blog.ymxc152.top" width="440"></picture></a>
 </p>
 
 <picture>

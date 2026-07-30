@@ -1,22 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="168" viewBox="0 0 600 168" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="76" viewBox="0 0 600 76" role="img" aria-labelledby="title">
   <title id="title">更多入口</title>
-  <desc id="desc">个人网站与博客</desc>
-  <defs>
-    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#f8faff"/>
-    </linearGradient>
-  </defs>
-  <rect x="2" y="2" width="596" height="164" rx="20" fill="url(#panel)" stroke="#d9e2f2" stroke-width="2"/>
-  <g font-family="Inter,Segoe UI,Microsoft YaHei,sans-serif">
-    <path d="M31 43c17-20 40-20 57 0-17 20-40 20-57 0Z" fill="#f2f5ff" stroke="#6673e8" stroke-width="2.5"/>
-    <circle cx="59" cy="43" r="7" fill="#42aabd"/>
-    <text x="112" y="54" fill="#17213a" font-size="31" font-weight="720">更多入口</text>
-    <line x1="30" y1="77" x2="570" y2="77" stroke="#e0e7f3" stroke-width="2"/>
-    <text x="31" y="108" fill="#66738d" font-size="17">PERSONAL SITE</text>
-    <text x="31" y="137" fill="#398eb8" font-size="22">www.ymxc152.top</text>
-    <line x1="300" y1="92" x2="300" y2="143" stroke="#e0e7f3"/>
-    <text x="329" y="108" fill="#66738d" font-size="17">BLOG</text>
-    <text x="329" y="137" fill="#398eb8" font-size="22">blog.ymxc152.top</text>
-  </g>
+  <rect x="2" y="2" width="596" height="72" rx="18" fill="#f8faff" stroke="#d9e2f2" stroke-width="2"/>
+  <path d="M29 38c17-20 40-20 57 0-17 20-40 20-57 0Z" fill="#f2f5ff" stroke="#6673e8" stroke-width="2.5"/>
+  <circle cx="57" cy="38" r="7" fill="#42aabd"/>
+  <text x="109" y="49" fill="#17213a" font-family="Inter,Segoe UI,Microsoft YaHei,sans-serif" font-size="31" font-weight="720">更多入口</text>
+  <line x1="270" y1="38" x2="568" y2="38" stroke="#dfe6f2" stroke-width="2"/>
 </svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="76" viewBox="0 0 440 76" role="img" aria-labelledby="title desc">
+  <title id="title">个人网站</title><desc id="desc">www.ymxc152.top</desc>
+  <rect x="1" y="1" width="438" height="74" rx="13" fill="#fff" stroke="#d6dfef"/>
+  <g font-family="Inter,Segoe UI,Microsoft YaHei,sans-serif">
+    <circle cx="35" cy="38" r="17" fill="#f2f5ff" stroke="#7886e8"/>
+    <circle cx="35" cy="38" r="9" fill="none" stroke="#6673e8" stroke-width="1.6"/><path d="M18 38h34M35 21c6 8 6 26 0 34M35 21c-6 8-6 26 0 34" fill="none" stroke="#6673e8" stroke-width="1.4"/>
+    <text x="68" y="34" fill="#17213a" font-size="16" font-weight="700">个人网站</text>
+    <text x="68" y="55" fill="#398eb8" font-size="12">www.ymxc152.top</text>
+    <text x="416" y="44" text-anchor="end" fill="#3d9db0" font-size="12">OPEN →</text>
+  </g>
+</svg>
