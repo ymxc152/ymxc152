@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="104" viewBox="0 0 900 104" role="img" aria-labelledby="title"><title id="title">更多链接与技能</title><rect x="1" y="1" width="898" height="102" rx="13" fill="#ffffff" stroke="#d9e2f2"/><text x="25" y="33" fill="#17213a" font-family="Inter,Segoe UI,Microsoft YaHei,sans-serif" font-size="18" font-weight="720">更多</text><text x="91" y="33" fill="#398eb8" font-family="Inter,Segoe UI,sans-serif" font-size="12">www.ymxc152.top</text><text x="236" y="33" fill="#a4afc3" font-family="Inter,Segoe UI,sans-serif" font-size="12">/</text><text x="254" y="33" fill="#398eb8" font-family="Inter,Segoe UI,sans-serif" font-size="12">blog.ymxc152.top</text><line x1="25" y1="49" x2="875" y2="49" stroke="#e0e7f3"/><g font-family="Inter,Segoe UI,sans-serif" font-size="12" fill="#4e5b73"><circle cx="35" cy="76" r="7" fill="#3975c6"/><text x="48" y="80">Python</text><circle cx="130" cy="76" r="7" fill="#e3b341"/><text x="143" y="80">Linux</text><circle cx="214" cy="76" r="7" fill="#2b9fd8"/><text x="227" y="80">Docker</text><circle cx="316" cy="76" r="7" fill="#745bd8"/><text x="329" y="80">SQLite</text><circle cx="417" cy="76" r="7" fill="#e5644b"/><text x="430" y="80">Git</text><circle cx="483" cy="76" r="7" fill="#46b0b8"/><text x="496" y="80">Shell</text><circle cx="566" cy="76" r="7" fill="#6673e8"/><text x="579" y="80">Agent</text></g><path d="M768 75c18-14 39-14 57 0-18 14-39 14-57 0Z" fill="#f3f6ff" stroke="#7785e7" stroke-width="1.5"/><circle cx="796" cy="75" r="5.5" fill="#42aabd"/><text x="865" y="80" text-anchor="end" fill="#66738d" font-family="Inter,Segoe UI,sans-serif" font-size="10">ORBITAL BASE</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="70" viewBox="0 0 900 70" role="img" aria-labelledby="title desc">
+  <title id="title">更多入口</title>
+  <desc id="desc">个人网站与博客</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f8faff"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="68" rx="13" fill="url(#panel)" stroke="#d9e2f2"/>
+  <g font-family="Inter,Segoe UI,Microsoft YaHei,sans-serif">
+    <path d="M28 35c10-12 24-12 34 0-10 12-24 12-34 0Z" fill="#f2f5ff" stroke="#6673e8" stroke-width="1.7"/>
+    <circle cx="45" cy="35" r="4.5" fill="#42aabd"/>
+    <text x="78" y="42" fill="#17213a" font-size="18" font-weight="720">更多入口</text>
+    <line x1="184" y1="18" x2="184" y2="52" stroke="#e0e7f3"/>
+    <text x="217" y="31" fill="#66738d" font-size="11">PERSONAL SITE</text>
+    <text x="217" y="48" fill="#398eb8" font-size="13">www.ymxc152.top</text>
+    <line x1="450" y1="18" x2="450" y2="52" stroke="#e0e7f3"/>
+    <text x="483" y="31" fill="#66738d" font-size="11">BLOG</text>
+    <text x="483" y="48" fill="#398eb8" font-size="13">blog.ymxc152.top</text>
+    <path d="M766 35c18-14 39-14 57 0-18 14-39 14-57 0Z" fill="#f3f6ff" stroke="#7785e7" stroke-width="1.5"/>
+    <circle cx="794" cy="35" r="5.5" fill="#42aabd"/>
+    <text x="865" y="40" text-anchor="end" fill="#66738d" font-size="10">ORBITAL BASE</text>
+  </g>
+</svg>

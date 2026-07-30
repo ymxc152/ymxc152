@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="330" viewBox="0 0 600 330" role="img" aria-labelledby="title desc">
+  <title id="title">常用工具箱</title>
+  <desc id="desc">自动化、运行环境、数据与工作流、Agent 探索</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f7f9ff"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="596" height="326" rx="20" fill="url(#panel)" stroke="#d9e2f2" stroke-width="2"/>
+  <g font-family="Inter,Segoe UI,Microsoft YaHei,sans-serif">
+    <rect x="30" y="24" width="48" height="48" rx="12" fill="#eef2ff" stroke="#6673e8" stroke-width="2"/>
+    <path d="M42 38h24M42 48h16M42 58h21" fill="none" stroke="#6673e8" stroke-width="3" stroke-linecap="round"/>
+    <text x="100" y="58" fill="#17213a" font-size="31" font-weight="720">常用工具箱</text>
+    <text x="30" y="94" fill="#7a869e" font-size="19">按用途分组，方便继续扩展</text>
+    <line x1="30" y1="116" x2="570" y2="116" stroke="#e0e7f3" stroke-width="2"/>
+
+    <g transform="translate(32 142)">
+      <circle cx="13" cy="13" r="12" fill="#3975c6"/>
+      <path d="M7 13h12M13 7v12" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+      <text x="36" y="12" fill="#253149" font-size="23" font-weight="680">自动化</text>
+      <text x="36" y="40" fill="#66738d" font-size="18">Python · Shell</text>
+    </g>
+    <g transform="translate(312 142)">
+      <circle cx="13" cy="13" r="12" fill="#2b9fd8"/>
+      <path d="M6 10h14v9H6zM9 7h8" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/>
+      <text x="36" y="12" fill="#253149" font-size="23" font-weight="680">运行环境</text>
+      <text x="36" y="40" fill="#66738d" font-size="18">Linux · Docker</text>
+    </g>
+    <line x1="30" y1="216" x2="570" y2="216" stroke="#edf1f7"/>
+    <g transform="translate(32 239)">
+      <circle cx="13" cy="13" r="12" fill="#e5644b"/>
+      <path d="M7 9h12v11H7zM10 6h6" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/>
+      <text x="36" y="12" fill="#253149" font-size="23" font-weight="680">数据与工作流</text>
+      <text x="36" y="40" fill="#66738d" font-size="18">SQLite · Git</text>
+    </g>
+    <g transform="translate(312 239)">
+      <circle cx="13" cy="13" r="12" fill="#745bd8"/>
+      <path d="M7 15c3-8 9-8 12 0M9 18h8" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+      <text x="36" y="12" fill="#253149" font-size="23" font-weight="680">Agent 探索</text>
+      <text x="36" y="40" fill="#66738d" font-size="18">Tools · Workflows</text>
+    </g>
+  </g>
+</svg>
