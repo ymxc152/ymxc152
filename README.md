@@ -21,8 +21,8 @@
 </picture>
 
 <p>
-  <a href="https://github.com/ymxc152/AutoAnime"><picture><source media="(max-width: 600px)" srcset="./assets/project-autoanime-mobile.svg"><img src="./assets/project-autoanime.svg" alt="AutoAnime：安全、可确认、可回滚的媒体整理管线" width="440"></picture></a>
-  <a href="https://github.com/ymxc152/gdut-auto-login"><picture><source media="(max-width: 600px)" srcset="./assets/project-gdut-mobile.svg"><img src="./assets/project-gdut.svg" alt="gdut-auto-login：Windows 校园网连接与自动恢复工具" width="440"></picture></a>
+  <a href="https://github.com/ymxc152/AutoAnime"><img src="./assets/project-autoanime.svg" alt="AutoAnime：安全、可确认、可回滚的媒体整理管线" width="49%"></a>
+  <a href="https://github.com/ymxc152/gdut-auto-login"><img src="./assets/project-gdut.svg" alt="gdut-auto-login：Windows 校园网连接与自动恢复工具" width="49%"></a>
 </p>
 
 <picture>
@@ -31,8 +31,8 @@
 </picture>
 
 <p>
-  <a href="https://www.ymxc152.top"><picture><source media="(max-width: 600px)" srcset="./assets/link-site-mobile.svg"><img src="./assets/link-site.svg" alt="打开个人网站 www.ymxc152.top" width="440"></picture></a>
-  <a href="https://blog.ymxc152.top"><picture><source media="(max-width: 600px)" srcset="./assets/link-blog-mobile.svg"><img src="./assets/link-blog.svg" alt="打开博客 blog.ymxc152.top" width="440"></picture></a>
+  <a href="https://www.ymxc152.top"><img src="./assets/link-site.svg" alt="打开个人网站 www.ymxc152.top" width="49%"></a>
+  <a href="https://blog.ymxc152.top"><img src="./assets/link-blog.svg" alt="打开博客 blog.ymxc152.top" width="49%"></a>
 </p>
 
 <picture>
